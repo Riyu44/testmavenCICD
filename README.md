@@ -74,6 +74,7 @@ Soon I'll be merging all your changes into the main branch of this project. You 
 - [@CodePrakhar](https://github.com/CodePrakhar)
 - [@Tushar-25](https://github.com/Tushar-2510)
 - [@Suvarchala-30](https://github.com/Suvarchala-30)
+- [@navvay](https://github.com/navvay)
 
 
 ## Appendix
